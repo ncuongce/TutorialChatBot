@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tutorialchatbot-f120c",
+  "private_key_id": "eb1e2e5fa969971a2f253ab5958c0388a2f7b754",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDDpw/XWU0gZCN3\n2hzQv5XymucDC4DSu9DoMoWMkEN1qIEZKWsEdw2pi+XRdEYJNoiIixcc3W0cCHlt\nZk7kbOfohXOM0FdmK4rfuBT1jQ0F5HOZPGa/fPJ+5Y//r9bzQxJEvIzNhljODL5i\nqczyqIvmG7mkYZAJW6FaIWalmpaZoJH1S42V0/DOhWtzza76ud0wWZf4QXV/CSNO\n6nRQCL+lZVxLWQbaJnxuQQ+BmUS4kk0VAi/DA3yDHRMQufjo0pQ3lyTXdyxM31qx\ngHUy1AKwlIAYQQEzQ+l4P+slMWKSqvX5cCaeA2Rs2CK3mAjbwZrAFyLMOZfS+aic\n/O9MgEibAgMBAAECggEABawr+qD2TdQAis8lwZ5OKvxpMR6he6VQYglHni9azj19\nc2JOz6zipGjIu42RWrSVR7Lac0CSdrd+2VTQzzEUQKkJaZyHbfOvraJjrZ7ghlbg\nhVqCoXNR1eRA4YzLeaHeTZ1vo6VihKQuKyQkD2EGg5HBGrHCx28fc7RNUa+fKRFH\niRLvuyNxn30GeBUjnDmG5gOHOVPqJ7y9nPQvvFYYNki/OkcxB0NjgARGl0O9reEB\nT75d8l9MVanobfUGt3wTesww3SCTvfZe0/Yrq/jEIldJ8+/JZPG2yBa/gpD4xPvO\n9qXxrPzntQvHjf957LnbyFgBwy/NBHAnOw/kECYkCQKBgQD+2j+lBDAzpWv9diT8\nqgptnggpjCOXWtJuBsEmN7tX74a3L2DoMjlJVPVyboC1puPkq/Q+cCkxDeFJHw2N\nrUH5SxhCn8XNHBozaltrWXS38a0iKjiM8bcKQZ6uk6PO6ElMxIqMXXbwaPmF9ymL\nLt1LJw3Daftg3TOZ6tzzvWa9nQKBgQDEiJPU1BjpD7Z/2bG4SLfB6G1gxjOkyzd/\nzkI2PMMN7g6k8PL9G2hvA3gzrHZtd82vKXX3F50jKgWo/5+5M6x4C8g8n2tvZ7HH\n3CuKNi+36BqRuaTBSE1U7uXK9vQ5mQdD1DQyGdFyD4aCKkthygXCjeHpom7PM5dd\ntTE9tJ3llwKBgQDvwbU0ck9ClzKUHgzH4tSysYSuSZfGMXxcZGBbqvzFyqKrPZhm\nebFpKtNKl2jg/CPTom3CO9SUwKEcIGmoysGRXTNyokr9Hp4LlthwkpT65BNkW+Id\nvtzbekZlqKHn6qHi5dgOG3Pk0m1EufTMawdnR1Nsbw094HxGJi095QZ+BQKBgH4r\nVARo2UkdzkKLpf0xqc5xgW6EL3lXAN0qs/UP0wTpVDtteAEnjEbgilVaHXkvVTtj\nOZkUbsu5WYLiAE8sLkevALByg800W7x7yvPiz4WYGx58eJmg6gxhheJj4evsIu7X\nl16mloBMGUUNE/HGeSYqYeLUZaDddQoynVcI0eknAoGBAJdxTEP3vlpwPIkk1Z4r\neVksqPDR8PG/FpSGdSIxXHBtO0BNrLSOY29gKHWVFWHDjy2D8VCwedflaOHJLSX1\noU3/tmh/Ytz/KoP6PLuSOEcnM5SMiiLkVsJNUy167BOPi32X45+0KwDypsXHO9WN\nCXm2oB84f99KfCsAMFXJIoUG\n-----END PRIVATE KEY-----\n",
+  "client_email": "tutorialserviceaccount@tutorialchatbot-f120c.iam.gserviceaccount.com",
+  "client_id": "115404330704262701329",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tutorialserviceaccount%40tutorialchatbot-f120c.iam.gserviceaccount.com"
+}
